@@ -1,6 +1,13 @@
 package EasyCode;
 
 public class No771JewelsAndStones {
+   /*
+   *@author:CZD
+   *@Description:
+   *@DATE:上午11:00 19-1-28
+   *@Param:[J, S]
+   *@return: int       
+   **/
     public int numJewelsInStones(String J, String S) {
         char Jwls[]=J.toCharArray();
         char stones[]=S.toCharArray();
