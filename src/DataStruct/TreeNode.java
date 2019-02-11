@@ -12,7 +12,7 @@ package DataStruct;
     public TreeNode(int x) { val = x; }
 
 
-    public void PreOrder(TreeNode root)
+    public static void PreOrder(TreeNode root)
     {
         if(root==null)
             return;
