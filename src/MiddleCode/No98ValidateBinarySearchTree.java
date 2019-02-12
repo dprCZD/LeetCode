@@ -15,7 +15,7 @@ public class No98ValidateBinarySearchTree {
     }
     /**
     *@author:CZD
-    *@Description:别问我为什么用long...测试用例全都是MAXVALUE MINVALUE的。
+    *@Description:别问我为什么用long...测试用例全都是MAXVALUE MINVALUE。
      * 思路就是设定区间，二叉搜索树必须小于这个区间。还有一种方法是中序遍历然后看是否是升序，
      * 但是那个时间复杂度比较高。
     *@DATE:上午11:20 19-2-11

@@ -17,7 +17,7 @@ public class No105ConstructBinaryTreefromPreorderandInorderTraversal {
     }
     /*
     *@author:CZD
-    *@Description:疯狂改，脑袋混沌，辣鸡代码，有空重构
+    *@Description:和No106基本一样，异曲同工，具体思路及注释参见No106.
     *@DATE:下午1:05 19-2-11
     *@Param:[preorder, inorder, start, end]
     *@return: DataStruct.TreeNode
