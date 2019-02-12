@@ -1,6 +1,7 @@
 # LeetCode
 the solution of LeetCode
-AnyWay,you can learn how to solve the questions on leetcode by this projocts.
+
+AnyWay,you can learn how to solve the questions on leetcode by this projects.
 I will update this project as long as I solve a new question on leetcode.
 
 
