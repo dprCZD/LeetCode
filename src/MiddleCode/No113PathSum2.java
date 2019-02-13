@@ -23,7 +23,7 @@ public class No113PathSum2 {
     * Stack,运用堆栈思维求解会较快地解决本题。注意本题会有重复的树节点，要小心应付。
     *@DATE:上午11:33 19-2-12
     *@Param:[root, sum, res, list]
-    *@return: void       
+    *@return: void
     **/
     public void isPathSum(TreeNode root, int sum,int res,List<Integer>list)
     {
